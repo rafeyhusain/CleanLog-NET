@@ -1,0 +1,12 @@
+D:\data\code\CleanLog-NET\CleanLog\bin\Debug\net6.0\CleanLog.deps.json
+D:\data\code\CleanLog-NET\CleanLog\bin\Debug\net6.0\CleanLog.dll
+D:\data\code\CleanLog-NET\CleanLog\bin\Debug\net6.0\CleanLog.pdb
+D:\data\code\CleanLog-NET\CleanLog\obj\Debug\net6.0\CleanLog.csproj.AssemblyReference.cache
+D:\data\code\CleanLog-NET\CleanLog\obj\Debug\net6.0\CleanLog.GeneratedMSBuildEditorConfig.editorconfig
+D:\data\code\CleanLog-NET\CleanLog\obj\Debug\net6.0\CleanLog.AssemblyInfoInputs.cache
+D:\data\code\CleanLog-NET\CleanLog\obj\Debug\net6.0\CleanLog.AssemblyInfo.cs
+D:\data\code\CleanLog-NET\CleanLog\obj\Debug\net6.0\CleanLog.csproj.CoreCompileInputs.cache
+D:\data\code\CleanLog-NET\CleanLog\obj\Debug\net6.0\CleanLog.dll
+D:\data\code\CleanLog-NET\CleanLog\obj\Debug\net6.0\refint\CleanLog.dll
+D:\data\code\CleanLog-NET\CleanLog\obj\Debug\net6.0\CleanLog.pdb
+D:\data\code\CleanLog-NET\CleanLog\obj\Debug\net6.0\ref\CleanLog.dll
